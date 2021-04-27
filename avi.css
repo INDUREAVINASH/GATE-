@@ -1,0 +1,89 @@
+.first {
+  color: brown;
+  background-color: #fbeec1;
+  font-style: normal;
+  padding: 10px;
+  margin-top: 20px;
+}
+.second {
+  color: white;
+  background-color: #5cdb95;
+  font-style: oblique;
+  padding: 10px;
+  margin-top: 20px;
+}
+.third {
+  color: black;
+  background-color: burlywood;
+  font-style: initial;
+  padding: 10px;
+  margin-top: 20px;
+}
+span {
+  color: black;
+  font-style: italic;
+  font-weight: bold;
+  padding: 10px;
+  margin-top: 20px;
+}
+table {
+  color: darkblue;
+  background-color: rgb(219, 193, 199);
+  font-family: inherit;
+  padding: 10px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border-radius: 20px;
+}
+div {
+  color: indigo;
+  background-color: lemonchiffon;
+  font-style: normal;
+  border-width: 2px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: crimson;
+  padding: 10px;
+  margin-top: 20px;
+}
+.btn {
+  background-color: rgb(182, 240, 155);
+  padding: 10px;
+  border: darkblue;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.navbar {
+  background-color: rgb(230, 54, 54);
+  border-radius: 30px;
+}
+.navbar ul {
+  overflow: auto;
+}
+.navbar li {
+  float: left;
+  list-style: none;
+  margin: 10px 15px;
+}
+.navbar li a {
+  padding: 5px 5px;
+  text-decoration: none;
+  color: white;
+}
+.search {
+  float: right;
+  color: white;
+  padding: 12px 75px;
+}
+.navbar input {
+  border: 1px solid black;
+  padding: 5px 15px;
+  border-radius: 15px;
+  float: right;
+}
+h2 {
+  color: rgb(4, 5, 87);
+  text-align: left;
+  text-transform: capitalize;
+  text-shadow: blueviolet;
+}
